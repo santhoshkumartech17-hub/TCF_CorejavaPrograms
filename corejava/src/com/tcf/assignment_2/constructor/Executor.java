@@ -1,13 +1,12 @@
 package com.tcf.assignment_2.constructor;
 
-
 public class Executor {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Student s1=new Student(1,"Santhosh","JFS");
-		Student s2=new Student(2,"Dharshana","JFS");
-		Student s3=new Student(3,"Aastha","DESIGNER");
+		Student s1=new Student(1,"Sugapathi","JFS");
+		Student s2=new Student(2,"Kiruthiga","JFS");
+		Student s3=new Student(3,"Nadenapathi","DESIGNER");
 		
 		
 		s1.displayInfo();
@@ -19,5 +18,6 @@ public class Executor {
 	}
 
 }
+	
 
-
+}
