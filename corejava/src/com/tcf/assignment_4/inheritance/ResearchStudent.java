@@ -1,4 +1,4 @@
-package com.tcf.assignment_4.inheritamnce;
+package com.tcf.assignment_4.inheritance;
 
 public class ResearchStudent extends Student {
 	
